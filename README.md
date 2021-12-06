@@ -1,2 +1,5 @@
-# P2_Prem_01_ComparaisonPays
+# Comparateur de Pays
+#
 # Alexandre Vahlas  Hugo Youf
+#
+#
