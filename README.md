@@ -4,6 +4,8 @@
 #
 # Source : https://data.oecd.org/fr/france.htm
 #
+# Pays disponible : France, Etats-Unis, Royaume-Uni, Allemagne, Chine, Russie, Mexique, Bresil
+#
 # Donnés utilisés : 
 # - Population : https://data.oecd.org/fr/pop/population.htm
 # - Education : https://data.oecd.org/fr/france.htm#profile-education
@@ -14,3 +16,4 @@
 # - Emplois : https://data.oecd.org/fr/france.htm#profile-jobs
 # - Energie : https://data.oecd.org/fr/france.htm#profile-energy
 # - Santé : https://data.oecd.org/fr/france.htm#profile-health
+#
