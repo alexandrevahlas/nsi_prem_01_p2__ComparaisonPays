@@ -14,4 +14,3 @@
 # - Emplois : https://data.oecd.org/fr/france.htm#profile-jobs
 # - Energie : https://data.oecd.org/fr/france.htm#profile-energy
 # - Santé : https://data.oecd.org/fr/france.htm#profile-health
-# - Société : https://data.oecd.org/fr/france.htm#profile-society
