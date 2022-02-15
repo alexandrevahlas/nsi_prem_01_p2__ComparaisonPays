@@ -1,8 +1,8 @@
 # Comparateur de Pays
 #
-# Ce programme permet de comparer des donnés nationales parmis plusieurs pays, plus de contenu sera ajouté au fil du temps.
-#
 # Alexandre Vahlas  Hugo Youf
+#
+# Ce programme permet de comparer des donnés nationales parmis plusieurs pays, plus de contenu sera ajouté au fil du temps.
 #
 # Source : https://data.oecd.org/fr/france.htm
 #
