@@ -19,7 +19,7 @@
 # Donnés utilisés : 
 # - Population
 # - Education : https://data.oecd.org/fr/france.htm#profile-education
-# - PIB : https://data.oecd.org/fr/gdp/produit-interieur-brut-pib.htm
+# - PIB : 
 # - RNT : https://data.oecd.org/fr/natincome/revenu-national-net.htm#indicator-chart
 # - Impot sur le revenu : https://data.oecd.org/fr/inequality/inegalite-de-revenu.htm
 # - Emmision de CO2 : https://data.oecd.org/fr/air/emissions-de-ges-et-de-polluants-de-l-air.htm
