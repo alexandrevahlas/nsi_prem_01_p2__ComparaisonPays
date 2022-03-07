@@ -14,7 +14,7 @@
 #
 # Source : https://donnees.banquemondiale.org/
 #
-# Pays disponible : France, Etats-Unis, Royaume-Uni, Allemagne, Mexique, Australie
+# Pays disponible : France, Etats-Unis, Royaume-Uni, Allemagne, Mexique, Russie
 #
 # Donnés utilisés : 
 # - Population
