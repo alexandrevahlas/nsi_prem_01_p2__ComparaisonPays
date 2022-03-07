@@ -30,7 +30,7 @@ def fenetrep ():
         ]
 
    # Texte qui s'affiche quand un des choix est selectionne
-    def show(self):
+    def menu1(self):
         if variable.get() == "France":
             left_label.config(text="france")
         elif variable.get() =="Allemagne":
@@ -49,7 +49,7 @@ def fenetrep ():
             left_label.config(text="Mexico")
         elif variable.get() =="Bresil":
             left_label.config(text="Brasil")
-    def show2(self):
+    def menu2(self):
         if variable2.get() == "France":
             right_label.config(text="france")
         elif variable2.get() =="Allemagne":
@@ -94,14 +94,14 @@ def fenetrep ():
     variable = tk.StringVar(app)
     variable.set(OptionList[0])
     
-    opt = tk.OptionMenu(second_frame, variable, *OptionList, command=show)
+    opt = tk.OptionMenu(second_frame, variable, *OptionList, command=menu1)
     opt.config(width=90, font=('Helvetica', 12))
     opt.grid(column=0, row=0, padx=50)
     
     variable2 = tk.StringVar(app)
     variable2.set(OptionList[0])
     
-    opt2 = tk.OptionMenu(second_frame, variable2, *OptionList, command=show2)
+    opt2 = tk.OptionMenu(second_frame, variable2, *OptionList, command=menu2)
     opt2.config(width=90, font=('Helvetica', 12))
     opt2.grid(column=1, row=0)
 
