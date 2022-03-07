@@ -6,7 +6,7 @@
 #
 # Ce projet original cherche a se differencier d'autre programme de traitement de "data" qui seront proposés. Les differentes parties du projets ont été séparés en deux, une partie IHM par Alexandre Vahlas et une partie pandas par Hugo Youf sur le traitement de données l'IHM a été effectué en premier pour laisser place ensuite aux donnés 
 #
-# La fonction principale qui ouvre le fenetre de comparaison "fenetrep" consiste de deux menu deroulants, fonctions "menu1" et "menu2" qui vont ensuite afficher les differentes "data" des pays
+# La fonction principale qui ouvre le fenetre de comparaison "fenetrep" consiste de deux menu deroulants, fonctions "menu1" et "menu2" qui vont ensuite afficher les differentes "data" des pays avec leurs fonction respectives
 #
 # Le programme fonctionne a condition d'avoir pandas, matplotlib et tkinter
 #
