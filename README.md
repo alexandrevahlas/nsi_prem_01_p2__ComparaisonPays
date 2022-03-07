@@ -12,7 +12,7 @@
 #
 # La realisation du programme fut compliqués pour trouver des données a cause d'un bug sur le site de l'OCDE n'affichant pas les pays recherchées
 #
-# Source : https://data.oecd.org/fr/france.htm
+# Source : https://donnees.banquemondiale.org/
 #
 # Pays disponible : France, Etats-Unis, Royaume-Uni, Allemagne, Mexique, Australie
 #
