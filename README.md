@@ -17,7 +17,7 @@
 # Pays disponible : France, Etats-Unis, Royaume-Uni, Allemagne, Mexique, Australie
 #
 # Donnés utilisés : 
-# - Population : https://data.oecd.org/fr/pop/population.htm
+# - Population
 # - Education : https://data.oecd.org/fr/france.htm#profile-education
 # - PIB : https://data.oecd.org/fr/gdp/produit-interieur-brut-pib.htm
 # - RNT : https://data.oecd.org/fr/natincome/revenu-national-net.htm#indicator-chart
