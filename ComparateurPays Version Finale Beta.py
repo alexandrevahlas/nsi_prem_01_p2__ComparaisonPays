@@ -16,7 +16,7 @@ root.resizable(True, True)
 def exitApp():  #Pour quitter l'application
     root.destroy()
 
-
+#Fonction qui comprend les fonctionnalités de la fenetre de comparaison
 def fenetrep ():
     #Liste pour les choix de Pays
     OptionList = [
@@ -28,7 +28,7 @@ def fenetrep ():
         "Chine",
         ]
 
-   # Texte qui s'affiche quand un des choix est selectionne
+   # Fonction qui s'effectue quand un des choix est selectionnee, et va alors afficher un graphique
     def menu1(self):
         if variable.get() == "France":
             left_label.config(command = data_france())
@@ -62,7 +62,7 @@ def fenetrep ():
     #Mise en place du canvas
     my_canvas = Canvas(main_frame)
     my_canvas.pack(side=LEFT, fill=BOTH, expand=1)
-    #Pour scroll
+    #Mise en place du barre de scroll dans le canvas
     my_scrollbar = ttk.Scrollbar(main_frame, orient=VERTICAL, command=my_canvas.yview)
     my_scrollbar.pack(side=RIGHT, fill=Y)
     #Configuration du canvas
@@ -72,7 +72,7 @@ def fenetrep ():
     #Ajout d'une nouveau frame
     my_canvas.create_window((0,0), window=second_frame, anchor="nw")
 
-
+    #Dimension de la fenetre
     app.geometry("1920x650")
     
     #Création de deux menus déroulant
@@ -97,6 +97,7 @@ def fenetrep ():
   
     
 # les "data2,3,4,5,6" sont des noms de variables pour que chaque fonction foncionne correctement
+#Les differentes fonctions comporte les données entrées manuellement ainfi de pouvoir creer le graphique, elle sont utilisés par les menus déroulants
     def data_france ():
         #population
         data2 = {'Années': [1960,1980,2000,2020],
