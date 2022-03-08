@@ -10,7 +10,7 @@
 #
 # Le programme fonctionne a condition d'avoir pandas, matplotlib et tkinter.
 #
-# La realisation du programme fut compliqués pour trouver des données a cause d'un bug sur le site de l'OCDE n'affichant pas les pays recherchées, mais finalement les données ont été rassemblées manuellement.
+# La realisation du programme fut compliqués pour trouver des données a cause d'un bug sur le site de l'OCDE n'affichant pas les pays recherchées, mais finalement les données ont été rassemblées manuellement. Nous avons eu des difficultés en raison notre mauvaise gestion du temps. Le travail répartie en deux n'a pas eu être en temps et en heure à cause d'une fracture d'un des membres du projet<;
 #
 # Source : https://donnees.banquemondiale.org/
 #          https://data.oecd.org/fr/france.htm#profile-jobs
